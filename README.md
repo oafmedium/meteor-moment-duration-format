@@ -1,6 +1,8 @@
 Moment Duration Format
 ======================
 
+this repo is a fork of [wizonesolutions/meteor-moment-duration-format](https://github.com/wizonesolutions/meteor-moment-duration-format)
+
 Moment.js `moment-duration-format` ("format plugin for the Moment Duration object") repackaged for Meteor.
 
 ## Installation
