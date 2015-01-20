@@ -1,7 +1,7 @@
 Package.describe({
   name: 'oaf:moment-duration-format',
   summary: 'Format Moment Duration objects.',
-  version: "1.3.1",
+  version: "1.3.2",
   git: "https://github.com/oafmedium/meteor-moment-duration-format.git"
 });
 

@@ -7,8 +7,7 @@ Moment.js `moment-duration-format` ("format plugin for the Moment Duration objec
 
 ## Installation
 
-1. `npm install -g meteorite` (if not already installed)
-1. `mrt install moment-duration-format`
+1. `meteor add oaf:moment-duration-format`
 1. See plugin documentation on the [original plugin page](https://github.com/jsmreese/moment-duration-format)
 
 ## Documentation
